@@ -1,0 +1,23 @@
+
+.post{
+    width: 400px;
+    padding: 30px 40;
+   
+    color:black;
+    box-sizing: border-box;
+    margin: 20px auto;
+    background-image: url(../css/img/Tamim-Iqbal-celebrates-his-half-century-1280x852.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.post h1{
+    text-align: center;
+    font-family: monospace;
+}
+.post p{
+    text-align: justify;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: monospace;
+}
